@@ -2,7 +2,7 @@
 
 ## Overview:
 
-<img width="882" alt="Summary" src="https://github.com/ChaseGillis/Precedent_Parser/assets/125314353/85cd04d7-6c6d-48dc-a257-9ceea4e7b66c">
+<img width="882" alt="Summary" src="https://github.com/kevinlindong/Precedent_Parser/blob/e7ed688226aa02cce5b8d958b59524d83056183d/README/Structure.png">
 
 ## Demo:
 
