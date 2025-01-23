@@ -10,18 +10,12 @@
 
 
 
-## Technologies
+## Technologies Used
 
 Project is created with:
-
-Python
-
-Streamlit
-
-OpenAI
-
-BS4
-
-ScrapeOPs
-
-Courtlistener
+- Python
+- Streamlit
+- BS4
+- OpenAI API
+- ScrapeOps API
+- Courtlistener API
